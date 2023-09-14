@@ -1,7 +1,13 @@
-Hi There !!👋
+Olá!!
 
-- 🔭 I’m currently working on Governance IT
-- 🌱 I’m currently learning JavaScript with NodeJS
+- Atualmente estou cursando Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu.
+- Atualmente estou trabalhando em Governança de TI.
+- Atualmente estou aprendendo JavaScript com NodeJS.
+------------------------------------
+Hi There !!👋
+- I'm currently studying systems analysis and development - Universidade São Judas Tadeu.
+- I’m currently working on Governance IT.
+- I’m currently learning JavaScript with NodeJS.
 
 
 <div style="display: inline_block"><br>
