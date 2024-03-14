@@ -6,7 +6,7 @@ Olá!!
 ------------------------------------
 Hi There !!👋
 - I'm currently studying systems analysis and development - Universidade São Judas Tadeu.
-- I’m currently working on Governance IT.
+- I’m currently working on Process Analytics JR.
 - I’m currently learning JavaScript with NodeJS.
 
 
