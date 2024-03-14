@@ -1,7 +1,7 @@
 Olá!!
 
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas - Universidade São Judas Tadeu.
-- Atualmente estou trabalhando com Governança de TI.
+- Atualmente estou trabalhando como Analista de Processos JR.
 - Atualmente estou aprendendo JavaScript com NodeJS.
 ------------------------------------
 Hi There !!👋
